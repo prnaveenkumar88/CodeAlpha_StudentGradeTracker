@@ -1,4 +1,3 @@
-
 # CodeAlpha - Student Grade Tracker (Java Console Project)
 
 This is a simple Java console application for tracking student grades.
